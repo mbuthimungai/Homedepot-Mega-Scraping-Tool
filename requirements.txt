@@ -9,6 +9,8 @@ certifi==2024.6.2
 charset-normalizer==3.3.2
 colorama==0.4.6
 cssselect==1.2.0
+discord==2.3.2
+discord.py==2.3.2
 fake-useragent==1.5.1
 frozenlist==1.4.1
 idna==3.7
@@ -20,6 +22,7 @@ parse==1.20.2
 pyee==11.1.0
 pyppeteer==2.0.0
 pyquery==2.0.0
+python-dotenv==1.0.1
 requests==2.32.3
 requests-html==0.10.0
 soupsieve==2.5

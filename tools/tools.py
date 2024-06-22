@@ -3,7 +3,9 @@ import random
 import secrets
 import asyncio
 from tools.cookie_handler import CookieHandler
+from tools.proxy_handler import ProxyHandler
 
+proxy_handler = ProxyHandler()
 cookie_handler = CookieHandler()
 
 def random_values(d_lists):
@@ -23,10 +25,7 @@ class Response:
     def __init__(self, base_url: str) -> None:
         self.base_url = base_url
         self.session = AsyncHTMLSession()
-        self.proxies = {
-            'http': 'http://brd-customer-hl_907e9430-zone-homedepot_search2:rb9km2u03m64@brd.superproxy.io:22225',
-            # 'https': 'http://brd-customer-hl_907e9430-zone-homedepot_search2:rb9km2u03m64@brd.superproxy.io:22225'
-        }
+        self.proxies = ""
         self.use_proxy = True
         self.headers = {
             'User-Agent': user_agents() or 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0',
@@ -54,16 +53,19 @@ class Response:
     async def content_graph(self, graph_payload=None):
         max_retry = 10
         additional_retry = 10  # New retry count with a new cookie
-
-        for attempt in range(max_retry + additional_retry):
+        
+        proxy = await proxy_handler.rotate_proxies()        
+        self.proxies = {"http": f"http://{proxy}"}                
+        
+        for attempt in range(max_retry + additional_retry):        
             self.headers['User-Agent'] = user_agents()
+        
             if attempt >= max_retry:                
                 self.headers['Cookie'] = await cookie_handler.read_cookie()                
             else:                
-                self.headers['Cookie'] = f'_abck=dhgkjdfghkdfjghaposdh{random.randint(100,999)}kjahf-235'
-               
+                self.headers['Cookie'] = f'_abck=dhgkjdfghkdfjghaposdh{random.randint(100,999)}kjahf-235'        
             try:
-                if self.use_proxy:
+                if self.use_proxy:                    
                     response = await asyncio.wait_for(
                         self.session.post(self.base_url, headers=self.headers, json=graph_payload, proxies=self.proxies, ), 5
                     )
@@ -88,7 +90,10 @@ class Response:
     async def content_html(self):
         max_retry = 10
         additional_retry = 10
-
+        
+        proxy = await proxy_handler.rotate_proxies()
+        self.proxies = f"http://{proxy}"
+        
         for attempt in range(max_retry + additional_retry):
             
             if attempt >= max_retry:                

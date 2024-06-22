@@ -1,13 +1,28 @@
 from tools.tools import Response
+from graphql_queries.search_model_query_1 import SearchModel
 
 from bs4 import BeautifulSoup
 import json
 
+BASE_URL = "https://www.homedepot.com/federation-gateway/graphql?opname=searchModel"
 
 class HomeDepot:
     def __init__(self) -> None:
         pass
-    
+        
+        
+    async def get_products(self, category_code: str, start_index: int,
+                           page_size: int) -> dict:
+                                
+        response = Response(base_url=BASE_URL)
+        search_model = SearchModel()
+        
+        graphql = await search_model.create_search_model_query(
+            category_code=category_code, page_size=page_size, start_index=start_index)
+        
+        content = await response.content_graph(graph_payload=graphql)
+        return content
+        
     async def extract_user_agents(self, url: str) -> None:
         content = await Response(base_url=url).content_html()
         

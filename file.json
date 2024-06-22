@@ -1,0 +1,2458 @@
+{
+    "data": {
+        "searchModel": {
+            "products": [
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/RYOBI-ONE-18V-18-Gauge-Cordless-AirStrike-Brad-Nailer-Tool-Only-P321/315855110",
+                        "brandName": "RYOBI",
+                        "itemId": "315855110",
+                        "productLabel": "ONE+ 18V 18-Gauge Cordless AirStrike Brad Nailer (Tool Only)",
+                        "modelNumber": "P321"
+                    },
+                    "itemId": "315855110",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/bf950d30-564f-450a-81a8-a3d3667842eb/svn/ryobi-brad-nailers-p321-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/6582cafc-3810-4c19-b5b8-092ae1626cc1/svn/ryobi-brad-nailers-p321-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 109.0,
+                        "original": 139.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Brad Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 9
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 1594
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "1720",
+                            "averageRating": "4.4395",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/Milwaukee-M18-FUEL-18-Volt-Lithium-Ion-Brushless-Cordless-Gen-II-18-Gauge-Brad-Nailer-Tool-Only-2746-20/309752194",
+                        "brandName": "Milwaukee",
+                        "itemId": "309752194",
+                        "productLabel": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Gen II 18-Gauge Brad Nailer (Tool-Only)",
+                        "modelNumber": "2746-20"
+                    },
+                    "itemId": "309752194",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/51b96705-56f2-4ffc-8eeb-72c2f4407dd5/svn/milwaukee-finishing-nailers-2746-20-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/8b4572d1-4671-48a8-81a7-c2568b4d99ad/svn/milwaukee-finishing-nailers-2746-20-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 269.0,
+                        "original": 299.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Finishing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 10
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 453
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "2901",
+                            "averageRating": "4.6829",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20V-MAX-XR-16-Gauge-Electric-Cordless-Angled-Finishing-Nailer-Kit-DCN660D1/206528533",
+                        "brandName": "DEWALT",
+                        "itemId": "206528533",
+                        "productLabel": "20V MAX XR 16-Gauge Electric Cordless Angled Finishing Nailer Kit",
+                        "modelNumber": "DCN660D1"
+                    },
+                    "itemId": "206528533",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/54a2af22-7238-4ca4-8ee9-3a95293aa718/svn/dewalt-finishing-nailers-dcn660d1-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/fea85745-f30c-43ae-a5ed-4af2ba8cf6e0/svn/dewalt-finishing-nailers-dcn660d1-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 429.0,
+                        "original": 429.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Finishing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 4
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 29
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "622",
+                            "averageRating": "4.4244",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-ATOMIC-20V-MAX-Lithium-Ion-Cordless-23-Gauge-Pin-Nailer-Kit-with-2-0Ah-Battery-and-Charger-DCN623D1/317977296",
+                        "brandName": "DEWALT",
+                        "itemId": "317977296",
+                        "productLabel": "ATOMIC 20V MAX Lithium Ion Cordless 23 Gauge Pin Nailer Kit with 2.0Ah Battery and Charger",
+                        "modelNumber": "DCN623D1"
+                    },
+                    "itemId": "317977296",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/0f43bd42-c55b-4073-b47e-bf68d5613da2/svn/dewalt-pin-nailers-dcn623d1-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/e3d472f1-d915-4ea4-ab22-3546befb9fd3/svn/dewalt-pin-nailers-dcn623d1-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 269.0,
+                        "original": 299.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Pin Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 4
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 212
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "355",
+                            "averageRating": "4.3577",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20V-MAX-XR-Lithium-Ion-18-Gauge-Electric-Cordless-Brad-Nailer-Kit-DCN680D1/301354095",
+                        "brandName": "DEWALT",
+                        "itemId": "301354095",
+                        "productLabel": "20V MAX XR Lithium-Ion 18-Gauge Electric Cordless Brad Nailer Kit",
+                        "modelNumber": "DCN680D1"
+                    },
+                    "itemId": "301354095",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/e4f956ff-bf24-42b3-8749-1c6e1782622a/svn/dewalt-brad-nailers-dcn680d1-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/96e2ec47-6881-4252-abd1-40d207ec2442/svn/dewalt-brad-nailers-dcn680d1-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 349.0,
+                        "original": 349.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Brad Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 5
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 50
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "2169",
+                            "averageRating": "4.7077",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/Milwaukee-M18-FUEL-3-1-2-in-18-Volt-30-Degree-Lithium-Ion-Brushless-Cordless-Framing-Nailer-Tool-Only-2745-20/309987729",
+                        "brandName": "Milwaukee",
+                        "itemId": "309987729",
+                        "productLabel": "M18 FUEL 3-1/2 in. 18-Volt 30-Degree Lithium-Ion Brushless Cordless Framing Nailer (Tool-Only)",
+                        "modelNumber": "2745-20"
+                    },
+                    "itemId": "309987729",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/1e2f61bf-4cb6-4108-97d0-b02a91deb74a/svn/milwaukee-framing-nailers-2745-20-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/8ddced10-192e-48b9-94eb-dd119760f593/svn/milwaukee-framing-nailers-2745-20-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 329.0,
+                        "original": 379.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Framing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 5
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 605
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "3017",
+                            "averageRating": "4.6364",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/RYOBI-ONE-HP-18V-18-Gauge-Brushless-Cordless-AirStrike-Brad-Nailer-Tool-Only-P322/318730711",
+                        "brandName": "RYOBI",
+                        "itemId": "318730711",
+                        "productLabel": "ONE+ HP 18V 18-Gauge Brushless Cordless AirStrike Brad Nailer (Tool Only)",
+                        "modelNumber": "P322"
+                    },
+                    "itemId": "318730711",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/a856253a-287e-4966-ac03-b8e482fed0ee/svn/ryobi-brad-nailers-p322-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/bde80253-848a-44e0-926b-627dc56755e3/svn/ryobi-brad-nailers-p322-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 189.0,
+                        "original": 189.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Brad Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 4
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 32
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "1153",
+                            "averageRating": "4.6609",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/Milwaukee-M18-FUEL-18-Volt-Lithium-Ion-Brushless-Cordless-Gen-II-15-Gauge-Angled-Finish-Nailer-Tool-Only-2839-20/317978291",
+                        "brandName": "Milwaukee",
+                        "itemId": "317978291",
+                        "productLabel": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Gen II 15-Gauge Angled Finish Nailer (Tool-Only)",
+                        "modelNumber": "2839-20"
+                    },
+                    "itemId": "317978291",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/9e9a43f4-f63c-43a5-97e7-b504d4983714/svn/milwaukee-finishing-nailers-2839-20-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 279.0,
+                        "original": 329.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Finishing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 4
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 636
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "2465",
+                            "averageRating": "4.6759",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/Milwaukee-M18-FUEL-3-1-2-in-18-Volt-21-Degree-Lithium-Ion-Brushless-Cordless-Framing-Nailer-Tool-Only-2744-20/309987301",
+                        "brandName": "Milwaukee",
+                        "itemId": "309987301",
+                        "productLabel": "M18 FUEL 3-1/2 in. 18-Volt 21-Degree Lithium-Ion Brushless Cordless Framing Nailer (Tool-Only)",
+                        "modelNumber": "2744-20"
+                    },
+                    "itemId": "309987301",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/9b17d83b-4159-4b21-acfa-73c669f39ab9/svn/milwaukee-framing-nailers-2744-20-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/182f61ae-b619-4da3-b5b0-2207f58f8ac5/svn/milwaukee-framing-nailers-2744-20-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 329.0,
+                        "original": 378.99
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Framing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 6
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 444
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "2828",
+                            "averageRating": "4.6899",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/Milwaukee-M18-FUEL-18-Volt-Lithium-Ion-Brushless-Cordless-Gen-II-16-Gauge-Angled-Finish-Nailer-Tool-Only-2841-20/317978875",
+                        "brandName": "Milwaukee",
+                        "itemId": "317978875",
+                        "productLabel": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Gen II 16-Gauge Angled Finish Nailer (Tool-Only)",
+                        "modelNumber": "2841-20"
+                    },
+                    "itemId": "317978875",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/0afae092-40f9-4c5d-a1ef-0846fa759671/svn/milwaukee-finishing-nailers-2841-20-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/f618c8c4-0373-4050-80e6-9eb401db2380/svn/milwaukee-finishing-nailers-2841-20-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 279.0,
+                        "original": 329.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Finishing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 4
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 543
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "2079",
+                            "averageRating": "4.6652",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/RYOBI-ONE-18V-AirStrike-16-Gauge-Cordless-Finish-Nailer-Tool-Only-P326/315854773",
+                        "brandName": "RYOBI",
+                        "itemId": "315854773",
+                        "productLabel": "ONE+ 18V AirStrike 16-Gauge Cordless Finish Nailer (Tool Only)",
+                        "modelNumber": "P326"
+                    },
+                    "itemId": "315854773",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/72a2977f-8d95-49f7-b8e9-4e41fcbbf718/svn/ryobi-finishing-nailers-p326-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/378391ef-dde6-403b-b4dc-f170b189abb8/svn/ryobi-finishing-nailers-p326-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 169.0,
+                        "original": 199.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Finishing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 6
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 145
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "537",
+                            "averageRating": "4.2309",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/RIDGID-Pneumatic-21-Degree-3-1-2-in-Round-Head-Framing-Nailer-R350RHF/207103100",
+                        "brandName": "RIDGID",
+                        "itemId": "207103100",
+                        "productLabel": "Pneumatic 21-Degree 3-1/2 in. Round Head Framing Nailer",
+                        "modelNumber": "R350RHF"
+                    },
+                    "itemId": "207103100",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/39fcaffa-228a-4a36-8121-c07fcf11a105/svn/ridgid-framing-nailers-r350rhf-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/bdc7d2f4-2b5d-4ab3-b4c2-8ad5f2c2c6a1/svn/ridgid-framing-nailers-r350rhf-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 179.0,
+                        "original": 209.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Framing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 9
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 295
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "827",
+                            "averageRating": "4.6542",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20V-MAX-Lithium-Ion-15-Degree-Electric-Cordless-Roofing-Nailer-Kit-with-2-0Ah-Battery-Charger-and-Bag-DCN45RND1/312302764",
+                        "brandName": "DEWALT",
+                        "itemId": "312302764",
+                        "productLabel": "20V MAX Lithium-Ion 15-Degree Electric Cordless Roofing Nailer Kit with 2.0Ah Battery Charger and Bag",
+                        "modelNumber": "DCN45RND1"
+                    },
+                    "itemId": "312302764",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/d1d9dbbe-e203-4d8b-bb0e-a345d44b2092/svn/dewalt-roofing-nailers-dcn45rnd1-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/9b9c3fc0-f93e-40cd-adaf-c5e697a6d9c6/svn/dewalt-roofing-nailers-dcn45rnd1-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 389.0,
+                        "original": 439.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Roofing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 2
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 49
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "361",
+                            "averageRating": "4.2465",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20V-MAX-XR-Lithium-Ion-Electric-Cordless-18-Gauge-Brad-Nailer-Tool-Only-DCN680B/302029641",
+                        "brandName": "DEWALT",
+                        "itemId": "302029641",
+                        "productLabel": "20V MAX XR Lithium-Ion Electric Cordless 18-Gauge Brad Nailer (Tool Only)",
+                        "modelNumber": "DCN680B"
+                    },
+                    "itemId": "302029641",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/aa9125e4-5c17-466e-a653-d229666dd9e7/svn/dewalt-brad-nailers-dcn680b-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/9ca66863-cd75-44ab-a9e5-220d7eb10124/svn/dewalt-brad-nailers-dcn680b-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 274.99,
+                        "original": 274.99
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Brad Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": false,
+                                                    "isLimitedQuantity": true,
+                                                    "isUnavailable": false,
+                                                    "quantity": 0
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 129
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "2083",
+                            "averageRating": "4.71",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20V-MAX-XR-Lithium-Ion-Cordless-Brushless-2-Speed-21-Plastic-Collated-Framing-Nailer-with-4-0Ah-Battery-and-Charger-DCN21PLM1/305707927",
+                        "brandName": "DEWALT",
+                        "itemId": "305707927",
+                        "productLabel": "20V MAX XR Lithium-Ion Cordless Brushless 2-Speed 21\u00b0 Plastic Collated Framing Nailer with 4.0Ah Battery and Charger",
+                        "modelNumber": "DCN21PLM1"
+                    },
+                    "itemId": "305707927",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/0567a0c7-1963-4022-9a5e-ae8138510e88/svn/dewalt-framing-nailers-dcn21plm1-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/3fa36bea-3848-46c1-b98e-12987f59e49a/svn/dewalt-framing-nailers-dcn21plm1-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 439.0,
+                        "original": 439.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Framing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "boss",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 856
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 856
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "815",
+                            "averageRating": "4.0344",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/RIDGID-18V-Brushless-Cordless-18-Gauge-2-1-8-in-Brad-Nailer-Tool-Only-with-CLEAN-DRIVE-Technology-R09891B/315311443",
+                        "brandName": "RIDGID",
+                        "itemId": "315311443",
+                        "productLabel": "18V Brushless Cordless 18-Gauge 2-1/8 in. Brad Nailer (Tool Only) with CLEAN DRIVE Technology",
+                        "modelNumber": "R09891B"
+                    },
+                    "itemId": "315311443",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/7de832ba-0f5c-4c28-a7ef-f8a9a24818d4/svn/ridgid-brad-nailers-r09891b-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/11f75c6c-c263-49cf-9ead-2c147dfc6565/svn/ridgid-brad-nailers-r09891b-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 159.0,
+                        "original": 199.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Brad Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 5
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 216
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "640",
+                            "averageRating": "4.0047",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/Milwaukee-M12-12-Volt-23-Gauge-Lithium-Ion-Cordless-Pin-Nailer-Tool-Only-2540-20/314484000",
+                        "brandName": "Milwaukee",
+                        "itemId": "314484000",
+                        "productLabel": "M12 12-Volt 23-Gauge Lithium-Ion Cordless Pin Nailer (Tool-Only)",
+                        "modelNumber": "2540-20"
+                    },
+                    "itemId": "314484000",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/7d28ab2e-6442-4a06-86e3-85f0a7b9bc45/svn/milwaukee-pin-nailers-2540-20-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/0d25755d-24c1-41c3-ba07-2ecd9c73891b/svn/milwaukee-pin-nailers-2540-20-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 229.0,
+                        "original": 229.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Pin Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": true,
+                                                    "isInStock": false,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 0
+                                                },
+                                                "type": "store"
+                                            },
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 1
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 146
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "1128",
+                            "averageRating": "4.7012",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20V-MAX-XR-Lithium-Ion-Electric-Cordless-Brushless-2-Speed-21-Plastic-Collated-Framing-Nailer-Tool-Only-DCN21PLB/307658305",
+                        "brandName": "DEWALT",
+                        "itemId": "307658305",
+                        "productLabel": "20V MAX XR Lithium-Ion Electric Cordless Brushless 2-Speed 21\u00b0 Plastic Collated Framing Nailer (Tool Only)",
+                        "modelNumber": "DCN21PLB"
+                    },
+                    "itemId": "307658305",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/4335511b-b48d-49a2-a93b-93e643b53795/svn/dewalt-framing-nailers-dcn21plb-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/c64c4a51-4c05-4e3b-a19c-d7f563ac5eb9/svn/dewalt-framing-nailers-dcn21plb-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 369.0,
+                        "original": 369.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Framing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "boss",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 699
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 699
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "792",
+                            "averageRating": "4.0316",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/RYOBI-ONE-HP-18V-Brushless-Cordless-AirStrike-21-Framing-Nailer-Tool-Only-PBL345B/320562056",
+                        "brandName": "RYOBI",
+                        "itemId": "320562056",
+                        "productLabel": "ONE+ HP 18V Brushless Cordless AirStrike 21\u00b0 Framing Nailer (Tool Only)",
+                        "modelNumber": "PBL345B"
+                    },
+                    "itemId": "320562056",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/b911b638-4741-4df0-b6ee-ab884f5ea2df/svn/ryobi-framing-nailers-pbl345b-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/f2ab3ce6-efd4-4c60-b500-a7ad277dcf1b/svn/ryobi-framing-nailers-pbl345b-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 299.0,
+                        "original": 299.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Framing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "boss",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 206
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 206
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "382",
+                            "averageRating": "4.5576",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-Pneumatic-15-Degree-Coil-Corded-Siding-Nailer-DW66C-1/205647623",
+                        "brandName": "DEWALT",
+                        "itemId": "205647623",
+                        "productLabel": "Pneumatic 15-Degree Coil Corded Siding Nailer",
+                        "modelNumber": "DW66C-1"
+                    },
+                    "itemId": "205647623",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/09e77ad7-794e-48ba-80d1-c19b7978638b/svn/dewalt-siding-nailers-dw66c-1-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/a9d1564e-3e1e-4ed1-bf3f-b02aed7c43f8/svn/dewalt-siding-nailers-dw66c-1-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 329.0,
+                        "original": 329.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Siding Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 1
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 38
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "305",
+                            "averageRating": "4.0787",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20V-MAX-XR-Lithium-Ion-Electric-Cordless-16-Gauge-Angled-Finishing-Nailer-Tool-Only-DCN660B/206528524",
+                        "brandName": "DEWALT",
+                        "itemId": "206528524",
+                        "productLabel": "20V MAX XR Lithium-Ion Electric Cordless 16-Gauge Angled Finishing Nailer (Tool Only)",
+                        "modelNumber": "DCN660B"
+                    },
+                    "itemId": "206528524",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/6e117b8a-a94c-4243-ae91-c22bf7d697a0/svn/dewalt-finishing-nailers-dcn660b-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/c35bdfad-2e6f-4236-9d72-a1918743c591/svn/dewalt-finishing-nailers-dcn660b-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 329.0,
+                        "original": 329.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Finishing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "boss",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 172
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 172
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "418",
+                            "averageRating": "4.3828",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20-Volt-30-Cordless-Framing-Nailer-Tool-Only-DCN930B/328702288",
+                        "brandName": "DEWALT",
+                        "itemId": "328702288",
+                        "productLabel": "20-Volt 30\u00b0 Cordless Framing Nailer (Tool-Only)",
+                        "modelNumber": "DCN930B"
+                    },
+                    "itemId": "328702288",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/a2902054-feec-421a-a4ef-1000b00d85bf/svn/dewalt-framing-nailers-dcn930b-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 379.0,
+                        "original": 379.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Framing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 5
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 37
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "6",
+                            "averageRating": "3.6667",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/DEWALT-20-Volt-21-Cordless-Framing-Nailer-Tool-Only-DCN920B/328691945",
+                        "brandName": "DEWALT",
+                        "itemId": "328691945",
+                        "productLabel": "20-Volt 21\u00b0 Cordless Framing Nailer (Tool-Only)",
+                        "modelNumber": "DCN920B"
+                    },
+                    "itemId": "328691945",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/78c71acf-9cdb-4f35-87ea-f58ad78443a2/svn/dewalt-framing-nailers-dcn920b-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 379.0,
+                        "original": 379.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Framing Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 5
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 55
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "8",
+                            "averageRating": "4.625",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "canonicalUrl": "/p/RIDGID-Pneumatic-18-Gauge-2-1-8-in-Brad-Nailer-with-CLEAN-DRIVE-Technology-Tool-Bag-and-Sample-Nails-R213BNF/304530407",
+                        "brandName": "RIDGID",
+                        "itemId": "304530407",
+                        "productLabel": "Pneumatic 18-Gauge 2-1/8 in. Brad Nailer with CLEAN DRIVE Technology, Tool Bag, and Sample Nails",
+                        "modelNumber": "R213BNF"
+                    },
+                    "itemId": "304530407",
+                    "media": {
+                        "images": [
+                            {
+                                "url": "https://images.thdstatic.com/productImages/746445ed-767c-44ad-82e2-cc8574bfa675/svn/ridgid-brad-nailers-r213bnf-64_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            },
+                            {
+                                "url": "https://images.thdstatic.com/productImages/f25d68c1-2532-4f95-b40b-3b8ff0199af5/svn/ridgid-brad-nailers-r213bnf-e4_<SIZE>.jpg",
+                                "sizes": [
+                                    "65",
+                                    "100",
+                                    "145",
+                                    "300",
+                                    "400",
+                                    "600",
+                                    "1000"
+                                ]
+                            }
+                        ]
+                    },
+                    "pricing": {
+                        "value": 79.0,
+                        "original": 89.0
+                    },
+                    "info": {
+                        "categoryHierarchy": [
+                            "Tools",
+                            "Nail Guns",
+                            "Brad Nailers"
+                        ]
+                    },
+                    "fulfillment": {
+                        "fulfillmentOptions": [
+                            {
+                                "type": "pickup",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "bopis",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 16
+                                                },
+                                                "type": "store"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "delivery",
+                                "fulfillable": true,
+                                "services": [
+                                    {
+                                        "type": "sth",
+                                        "locations": [
+                                            {
+                                                "inventory": {
+                                                    "isOutOfStock": false,
+                                                    "isInStock": true,
+                                                    "isLimitedQuantity": false,
+                                                    "isUnavailable": false,
+                                                    "quantity": 305
+                                                },
+                                                "type": "online"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "reviews": {
+                        "ratingsReviews": {
+                            "totalReviews": "944",
+                            "averageRating": "4.7055",
+                            "__typename": "RatingsReviews"
+                        },
+                        "__typename": "Reviews"
+                    }
+                }
+            ],
+            "id": "247819034",
+            "searchReport": {
+                "totalProducts": 559
+            }
+        }
+    }
+}

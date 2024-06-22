@@ -4,7 +4,7 @@ from graphql_queries.search_model_query_1 import SearchModel
 from bs4 import BeautifulSoup
 import json
 
-BASE_URL = "https://www.homedepot.com/federation-gateway/graphql?opname=searchModel"
+
 
 class HomeDepot:
     def __init__(self) -> None:
@@ -12,9 +12,9 @@ class HomeDepot:
         
         
     async def get_products(self, category_code: str, start_index: int,
-                           page_size: int) -> dict:
+                           page_size: int, base_url: str) -> dict:
                                 
-        response = Response(base_url=BASE_URL)
+        response = Response(base_url=base_url)
         search_model = SearchModel()
         
         graphql = await search_model.create_search_model_query(

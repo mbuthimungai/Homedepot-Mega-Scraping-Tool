@@ -40,62 +40,78 @@ class DiscordSender:
     async def run_discord_bot(self):
         # Run the bot
         client.start(os.getenv('DISCORD_TOKEN'))
-    
-    async def find_or_create_channel_by_id(self, channel_id: str) -> str:
-        """
-        Find a channel by its name in the specified guild. If not found, create one.
         
-        :param client: The discord client or bot instance.
-        :param channel_name: The name of the channel to find or create.
-        :return: The discord channel object.
-        """
-        YOUR_SERVER_ID = int(os.getenv("SERVER_ID"))  # Replace with your server's ID
-        guild = client.get_guild(YOUR_SERVER_ID)
-        
-        if guild:
-            # Check if channel already exists
-            for channel in guild.text_channels:
-                if channel.name == channel_id:
-                    print(f'Found Channel: {channel.name} with ID {channel.id}')
-                    return channel
-            
-            # If the channel was not found, create a new one            
-            new_channel = await guild.create_text_channel(channel_id)
-            return new_channel
-        else:
-            print('Guild not found.')
-            return None
     
-    async def find_discount_channel(self, product_info: dict, is_special_value: bool) -> discord.channel.TextChannel:
-        channel = ""
-        if is_special_value:
-            if 90 <= product_info['discount'] <= 100:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['90_100_HD_ONLINE']))
-            if 80 <= product_info['discount'] <= 89:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['80_89_HD_ONLINE']))
-            if 70 <= product_info['discount'] <= 79:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['70_79_HD_ONLINE']))
-            if 0 <= product_info['discount'] <= 69:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['1_69_HD_ONLINE']))
-        elif product_info['service_type'] == "bopis":
-            if 90 <= product_info['discount'] <= 100:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['90_100_HD_IN_STORE']))
-            if 80 <= product_info['discount'] <= 89:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['80_89_HD_IN_STORE']))
-            if 70 <= product_info['discount'] <= 79:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['70_79_HD_IN_STORE']))
-            if 0 <= product_info['discount'] <= 69:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['1_69_HD_IN_STORE']))
-        elif product_info['service_type'] == "boss":
-            if 90 <= product_info['discount'] <= 100:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['90_100_HD_ZIP']))
-            if 80 <= product_info['discount'] <= 89:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['80_89_HD_ZIP']))
-            if 70 <= product_info['discount'] <= 79:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['70_79_HD_ZIP']))            
-            if 0 <= product_info['discount'] <= 69:
-                channel = client.get_channel(int(CHANNEL_IDS_MAPPING['1_69_HD_ZIP']))
-        return channel
+    # async def find_discount_channel(self, product_info: dict, is_special_buy: bool) -> discord.channel.TextChannel:
+    #     channel = ""
+    #     if is_special_buy:
+    #         if 90 <= product_info['discount'] <= 100:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['90_100_HD_ONLINE']))
+    #         if 80 <= product_info['discount'] <= 89:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['80_89_HD_ONLINE']))
+    #         if 70 <= product_info['discount'] <= 79:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['70_79_HD_ONLINE']))
+    #         if 0 <= product_info['discount'] <= 69:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['1_69_HD_ONLINE']))
+    #     elif product_info['service_type'] == "bopis":
+    #         if 90 <= product_info['discount'] <= 100:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['90_100_HD_IN_STORE']))
+    #         if 80 <= product_info['discount'] <= 89:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['80_89_HD_IN_STORE']))
+    #         if 70 <= product_info['discount'] <= 79:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['70_79_HD_IN_STORE']))
+    #         if 0 <= product_info['discount'] <= 69:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['1_69_HD_IN_STORE']))
+    #     elif product_info['service_type'] == "boss":
+    #         if 90 <= product_info['discount'] <= 100:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['90_100_HD_ZIP']))
+    #         if 80 <= product_info['discount'] <= 89:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['80_89_HD_ZIP']))
+    #         if 70 <= product_info['discount'] <= 79:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['70_79_HD_ZIP']))            
+    #         if 0 <= product_info['discount'] <= 69:
+    #             channel = client.get_channel(int(CHANNEL_IDS_MAPPING['1_69_HD_ZIP']))
+    #     return channel
+    
+    async def find_discount_channel(self, product_info: dict, is_special_buy: bool) -> discord.channel.TextChannel:
+        # Define channel ID mappings for each service type and discount range
+        discount_channels = {
+            "special_buy": {
+                (90, 100): '90_100_HD_ONLINE',
+                (80, 89): '80_89_HD_ONLINE',
+                (70, 79): '70_79_HD_ONLINE',
+                (0, 69): '1_69_HD_ONLINE',
+            },
+            "bopis": {
+                (90, 100): '90_100_HD_IN_STORE',
+                (80, 89): '80_89_HD_IN_STORE',
+                (70, 79): '70_79_HD_IN_STORE',
+                (0, 69): '1_69_HD_IN_STORE',
+            },
+            "boss": {
+                (90, 100): '90_100_HD_ZIP',
+                (80, 89): '80_89_HD_ZIP',
+                (70, 79): '70_79_HD_ZIP',
+                (0, 69): '1_69_HD_ZIP',
+            }
+        }
+        
+        # Determine the appropriate discount channel mapping based on service type
+        service_type = 'special_buy' if is_special_buy else product_info.get('service_type')
+        discount = product_info.get('discount')
+        
+        # Find the appropriate channel ID based on the discount range
+        channel_id = None
+        for discount_range, channel_key in discount_channels.get(service_type, {}).items():
+            if discount_range[0] <= discount <= discount_range[1]:
+                channel_id = CHANNEL_IDS_MAPPING.get(channel_key)
+                break
+    
+        # Return the corresponding Discord channel or None if not found
+        if channel_id:
+            return client.get_channel(int(channel_id))
+        return None
+
     
     async def create_embed(self, product_info: dict) -> discord.Embed:
         embed = discord.Embed(
@@ -108,7 +124,7 @@ class DiscordSender:
         embed.add_field(name="New Price", value=f"${product_info['value']:.2f}", inline=True)
         embed.add_field(name="Retail Price", value=f"${product_info['original']:.2f}", inline=True)
         embed.add_field(name="Discount", value=f"{product_info['discount']}%", inline=True)
-        embed.add_field(name="Service Type", value=product_info['service_type'], inline=False)
+        # embed.add_field(name="Service Type", value=product_info['service_type'], inline=False)
         embed.add_field(name="Product ID", value=product_info['product_id'], inline=False)
         
         return embed
@@ -117,7 +133,7 @@ class DiscordSender:
         # embed.add_field(name="Limited Quantity", value=str(product_info['is_limited_quantity']), inline=True)
         
         
-    async def send_product_data_to_discord(self, product_info: dict, is_special_value: bool = False) -> None:
+    async def send_product_data_to_discord(self, product_info: dict, is_special_buy: bool = False) -> None:
         channel = await self.find_discount_channel(
             product_info=product_info)
         if channel:

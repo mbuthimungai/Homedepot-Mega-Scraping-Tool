@@ -4,7 +4,7 @@ services:
   api:
     build: 
       context: .
-    command: python discordMain.py
+    command: python main.py
     volumes:
       - .:/app
       - 'C:\Program Files\Google\Chrome\Application\chrome.exe:/host-chrome'
